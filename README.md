@@ -1,6 +1,3 @@
-
-## Sobre el pryecto
-
 ## Sobre el proyecto
 Este es un proyecto desarrollado con laravel, el cual permite realizar todo el CRUD para los productos y para las ventas, cuenta con migraciones, y seeders
 se utilizo el motor de base de datos PostgresSql como fue solicitado
